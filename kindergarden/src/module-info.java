@@ -1,0 +1,2 @@
+module kindergarden {
+}
